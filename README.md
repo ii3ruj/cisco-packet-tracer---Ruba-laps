@@ -12,5 +12,5 @@
 | Designing and Implementing a Subnetted IPv4 Addressing Scheme | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/Lab%204-2%20-%20Scenario.pdf | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/Lap%204.2-Work-Details.pdf | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/4.2-Lab%20%20-%20Scenario.pkt |
 | 5.1### | 5.1### | 5.1### | 5.1### |
 | Troubleshoot Connectivity Issues | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/Lab%205-2%20-%20Scenario.pdf | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/Lap%205.2-Work-Details.pdf | https://github.com/ii3ruj/cisco-packet-tracer---Ruba-laps/blob/main/LAP5.2-network.pkt |
-| Lab 9    |             |              |          |
-| Lab 10   |             |              |          |
+| Lab 7.1    |             |              |          |
+| Lab 7.2   |             |              |          |
